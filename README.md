@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MhmdElbaz
-- 👀 I’m interested in Daa Science
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning .net
 
 - 📫 How to reach me mhmdelbaz57@gmail.com
